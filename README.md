@@ -66,8 +66,6 @@ Start the code cell with a comment indicating the question it is answering.
 Write any assumptions you made about the data.
 Write and execute the code you feel is required to answer the question.
 Show your work and describe your thought process.
-Imagine your answers will be presented to team members not used to looking at the data so make the presentation clear and easy to understand.
-The goal is to help us understand how you approach analysis.
 1. How many rows are in the two datasets? 
 If the log of emails represents 3% of the emails we sent over this period, how many emails did we send?
 (use python to print the numbers and display them nicely with commas)
